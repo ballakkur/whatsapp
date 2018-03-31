@@ -1,0 +1,44 @@
+.navbar
+{
+
+	background-color: rgb(238, 238, 238);
+	height: 5em;
+}
+.navbar img
+{
+    	width:70px;
+        height:70px;
+        border-radius: 50%;
+}
+.pad
+{
+  padding-left:10px;
+  padding-right: 10px;
+}
+.pad2
+{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.clr:hover
+{
+	color:rgb(81, 81, 81);
+}
+.clr
+{
+	color: rgb(132, 131, 131);
+}
+.border
+{
+	border: 1px solid rgb(238, 238, 238);
+	height: 4em;
+}
+@media screen and (max-width: 576px)
+{
+ 	.hide
+ 	{
+ 		display: none;
+ 	}
+
+
+}
